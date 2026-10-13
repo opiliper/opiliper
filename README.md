@@ -5,3 +5,5 @@
 | ТЫГЫДЫК  | тырыпыры |
 | Олег     | Пирожки  |
 | Цынцылеп | чупапимуняни |
+
+<img width="554" height="554" alt="изображение" src="https://github.com/user-attachments/assets/e86fea5c-aa51-47fc-b088-96b6f71fd6d1" />
